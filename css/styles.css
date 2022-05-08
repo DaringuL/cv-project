@@ -1,0 +1,32 @@
+body {
+  background-color: #F3F1F5;
+}
+hr {
+border-top-style: dotted;
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-width: 5px;
+border-color: #F0D9FF
+
+}
+h1{
+  color: #8d789b;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+  color: #8d789b;
+}
+a:link {
+  color: #BFA2DB;
+}
+
+a:visited {
+  color: #7F7C82;
+}
+
+a:hover {
+  color: #F3F1F5;
+  text-decoration;
+  background-color: #bda7cc
+}
